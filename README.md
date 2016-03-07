@@ -1,8 +1,7 @@
 Bubble level tool 
 =============================
 
-Gets accelerometer events at a very high rate
-Resolving constraints and collisions with the Verlet integrator
+Gets accelerometer events at a high rate and resolvs constraints and collisions with the Verlet integrator
 
 Screenshots
 -----------
